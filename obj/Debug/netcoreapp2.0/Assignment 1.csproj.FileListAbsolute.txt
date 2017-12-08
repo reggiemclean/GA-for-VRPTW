@@ -1,0 +1,32 @@
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/obj/Debug/netcoreapp2.0/Assignment 1.csproj.CoreCompileInputs.cache
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/obj/Debug/netcoreapp2.0/Assignment 1.AssemblyInfoInputs.cache
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/obj/Debug/netcoreapp2.0/Assignment 1.AssemblyInfo.cs
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/bin/Debug/netcoreapp2.0/Assignment 1.deps.json
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/bin/Debug/netcoreapp2.0/Assignment 1.runtimeconfig.json
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/bin/Debug/netcoreapp2.0/Assignment 1.runtimeconfig.dev.json
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/bin/Debug/netcoreapp2.0/Assignment 1.dll
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/bin/Debug/netcoreapp2.0/Assignment 1.pdb
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/obj/Debug/netcoreapp2.0/Assignment 1.dll
+/Users/reginaldmclean/Desktop/Brock/Fall 2017/COSC 5P74/Assignment 1/obj/Debug/netcoreapp2.0/Assignment 1.pdb
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\bin\Debug\netcoreapp2.0\Assignment 1.deps.json
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\bin\Debug\netcoreapp2.0\Assignment 1.runtimeconfig.json
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\bin\Debug\netcoreapp2.0\Assignment 1.runtimeconfig.dev.json
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\bin\Debug\netcoreapp2.0\Assignment 1.dll
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\bin\Debug\netcoreapp2.0\Assignment 1.pdb
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\obj\Debug\netcoreapp2.0\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\obj\Debug\netcoreapp2.0\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\obj\Debug\netcoreapp2.0\Assignment 1.AssemblyInfoInputs.cache
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\obj\Debug\netcoreapp2.0\Assignment 1.AssemblyInfo.cs
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\obj\Debug\netcoreapp2.0\Assignment 1.dll
+C:\Users\Reggie\Desktop\Assignment\Genetic-Algorithm-VRP\obj\Debug\netcoreapp2.0\Assignment 1.pdb
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\bin\Debug\netcoreapp2.0\Assignment 1.deps.json
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\bin\Debug\netcoreapp2.0\Assignment 1.runtimeconfig.json
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\bin\Debug\netcoreapp2.0\Assignment 1.runtimeconfig.dev.json
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\bin\Debug\netcoreapp2.0\Assignment 1.dll
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\bin\Debug\netcoreapp2.0\Assignment 1.pdb
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\obj\Debug\netcoreapp2.0\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\obj\Debug\netcoreapp2.0\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\obj\Debug\netcoreapp2.0\Assignment 1.AssemblyInfoInputs.cache
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\obj\Debug\netcoreapp2.0\Assignment 1.AssemblyInfo.cs
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\obj\Debug\netcoreapp2.0\Assignment 1.dll
+C:\Users\Reggie\Desktop\Genetic-Algorithm-VRP-master\obj\Debug\netcoreapp2.0\Assignment 1.pdb

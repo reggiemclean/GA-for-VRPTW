@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "5390f055cecd2af4848d1eb267f50ab9ce6a6f9d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Assignment 1/1.0.0": {
+        "dependencies": {
+          "GeneticSharp": "1.1.19"
+        },
+        "runtime": {
+          "Assignment 1.dll": {}
+        }
+      },
+      "GeneticSharp/1.1.19": {
+        "dependencies": {
+          "SmartThreadPool.dll": "2.2.4"
+        },
+        "runtime": {
+          "lib/net35/GeneticSharp.Domain.dll": {},
+          "lib/net35/GeneticSharp.Extensions.dll": {},
+          "lib/net35/GeneticSharp.Infrastructure.Framework.dll": {},
+          "lib/net35/GeneticSharp.Infrastructure.Threading.dll": {},
+          "lib/net35/NCalc.dll": {}
+        }
+      },
+      "SmartThreadPool.dll/2.2.4": {
+        "runtime": {
+          "lib/net45/SmartThreadPool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneticSharp/1.1.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gts43f5Y9xCkUozoKkdAoQEzv+pBxhKbm8ELCnFxwaBfy1SQnrGzcLWGiqdyQr6T5FBaL6Uj+PmEb5dgzQ3VPQ==",
+      "path": "geneticsharp/1.1.19",
+      "hashPath": "geneticsharp.1.1.19.nupkg.sha512"
+    },
+    "SmartThreadPool.dll/2.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T2F27k04orKdqAAYmgWjkVj/f0a+J8KACYRFGgMt9UxY3D4AEU6y7PdmuZpSE+xwXiZiDk4VkqeEKzZgzcsluA==",
+      "path": "smartthreadpool.dll/2.2.4",
+      "hashPath": "smartthreadpool.dll.2.2.4.nupkg.sha512"
+    }
+  }
+}
